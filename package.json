@@ -1,0 +1,10 @@
+{
+  "name": "shubham-997800-profile",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "update": "node scripts/update-streak.mjs",
+    "update-streak": "node scripts/update-streak.mjs"
+  }
+}
