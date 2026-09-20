@@ -23,7 +23,7 @@
                 <!-- Total Contributions big number -->
                 <g transform='translate(82.5, 48)'>
                     <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#FEFEFE' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='700' font-size='28px' font-style='normal' style='opacity: 1; opacity: 1;'>
-                        1,097
+                        1,106
                     </text>
                 </g>
 
@@ -52,15 +52,11 @@
                 <!-- Current Streak range -->
                 <g transform='translate(247.5, 145)'>
                     <text x='0' y='21' stroke-width='0' text-anchor='middle' fill='#9E9E9E' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='400' font-size='12px' font-style='normal' style='opacity: 1; opacity: 1;'>
-                        Sep 16 - Sep 19
+                        Sep 16 - Sep 20
                     </text>
                 </g>
 
                 <!-- Ring around number -->
-                <mask id='mask_out_ring_behind_fire'>
-                    <rect width='495' height='195' fill='white'/>
-                    <ellipse id='mask-ellipse' cx='247.5' cy='32' rx='13' ry='18' fill='black'/>
-                </mask>
                 <g mask='url(#mask_out_ring_behind_fire)'>
                     <circle cx='247.5' cy='71' r='40' fill='none' stroke='#2f81f7' stroke-width='5' style='opacity: 1; opacity: 1;'></circle>
                 </g>
@@ -73,7 +69,7 @@
                 <!-- Current Streak big number -->
                 <g transform='translate(247.5, 48)'>
                     <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#ffffff' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='700' font-size='28px' font-style='normal' style='font-size: 28px;'>
-                        4
+                        5
                     </text>
                 </g>
 
